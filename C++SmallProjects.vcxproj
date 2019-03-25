@@ -115,6 +115,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="NextPerfectSquare.cpp" />
+    <ClCompile Include="Scramblies.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="NextPerfectSquare.h" />
+    <ClInclude Include="Scramblies.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
